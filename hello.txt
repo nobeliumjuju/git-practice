@@ -2,3 +2,6 @@ Helloooi
 Git sikira , ani yo chai first git project jasto
 all good
 jujulipapa
+
+date: 3rd september
+aaja halka second commit try garira
