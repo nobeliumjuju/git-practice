@@ -1,4 +1,5 @@
 aaja sept 4 ani *i changed this from main
+aaja sept 4 ani *i changed this from main *again changed it in practice
 halka commands haru practice vanum
 git status
 git log
