@@ -1,4 +1,4 @@
-aaja sept 4 
+aaja sept 4 ani *i changed this from main
 halka commands haru practice vanum
 git status
 git log
