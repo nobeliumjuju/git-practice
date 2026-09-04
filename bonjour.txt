@@ -3,4 +3,18 @@ halka commands haru practice vanum
 git status
 git log
 git add
-git commitgit push
+git commit
+git push
+
+
+aba git branch practice 
+*main
+practice
+samma sikyo also
+ git switch practice
+ git push -u origin practice
+ git merge practice //yesle chai practice branch ma gareko changes lai main ma 
+ //lyaidinxa
+
+
+
