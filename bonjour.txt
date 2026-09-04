@@ -1,0 +1,6 @@
+aaja sept 4 
+halka commands haru practice vanum
+git status
+git log
+git add
+git commitgit push
