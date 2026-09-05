@@ -1,4 +1,4 @@
-aaja halka revision jasto *yo line practice1 ma change gare *feri main ma change 
+aaja halka revision jasto *yo line practice1 ma change gare *feri main ma change n
 new file banaye
 aba halka merge , merge conflict practice hanxu 
-n then all good
+n then all good *changed on main 
