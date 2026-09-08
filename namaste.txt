@@ -3,3 +3,6 @@ new file banaye , new file hataye
 aba halka merge , merge conflict practice hanxu 
 n then all good *changed on main 
 today iam learning git diff
+Learning how to unstage changes.
+
+hehe added smtg , tuesday
