@@ -6,3 +6,5 @@ today iam learning git diff
 Learning how to unstage changes.
 
 hehe added smtg , tuesday
+
+This is a test for git revert.
